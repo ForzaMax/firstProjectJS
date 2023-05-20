@@ -12,7 +12,7 @@ module.exports = {
 	},
 	"rules": {
 		"indent": [
-			"error",
+			"warn",
 			"tab"
 		],
 		"linebreak-style": [
@@ -21,7 +21,7 @@ module.exports = {
 		],
 		"quotes": [
 			"error",
-			"double"
+			"single"
 		],
 		"semi": [
 			"error",
